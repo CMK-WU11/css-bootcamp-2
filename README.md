@@ -7,5 +7,8 @@ Du skal få din egen version til at ligne layoutet fra opgaven.
 - Du må **ikke** rykke rundt på dine HTML-elementer.
 - Du må **gerne** tilføje classes og IDs.
 
-## Aflevering
-Du skal aflevere din opgave på GitHUb. Push ofte og lav en pull-request, når du er klar til at aflevere.
+**Aflevering**
+
+Din aflevering foregår på GitHub, så dit sidste commit/push er din aflevering.
+
+Du skal aflevere i classroom-repositoriet.
